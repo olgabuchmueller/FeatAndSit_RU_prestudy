@@ -1,0 +1,97 @@
+group,item_nr,item_version,dimension_group,distinction_dimension,dimension,agens_gender,modality,agens_formality,agens,action,object,connectors,specifier,localisation,sentence,sentence_W,sentence_R,translation
+1,1,,1,dyn_stat,dynamic,m,S,f,Pan Novák,vypráví,dětem,,napínavý,příběh,Pan Novák vypráví dětem napínavý příběh.,,,Martin is narrating to children a thrilling story.
+1,2,,1,dyn_stat,dynamic,m,S,f,Pan Svoboda,si povídá,s přítelkyní,v,útulné,kavárně,Pan Svoboda si povídá s přítelkyní v útulné kavárně.,,,Tomáš is chatting with girlfriend in a cozy caffeterie.
+1,3,,1,dyn_stat,dynamic,m,S,i,Jan,mluví,se sestřenicí,na,rodinné,oslavě,Jan mluví se sestřenicí na rodinné oslavě.,,,Jan is talking to cousin at family celebration.
+2,1,,1,dyn_stat,dynamic,m,S,f,Pan Novák,vypráví,dětem,,napínavý,příběh,Pan Novák vypráví dětem napínavý příběh.,,,Martin is narrating to children a thrilling story.
+2,2,,1,dyn_stat,dynamic,m,S,f,Pan Svoboda,si povídá,s přítelkyní,v,útulné,kavárně,Pan Svoboda si povídá s přítelkyní v útulné kavárně.,,,Tomáš is chatting with girlfriend in a cozy caffeterie.
+2,3,,1,dyn_stat,dynamic,m,S,i,Jan,mluví,se sestřenicí,na,rodinné,oslavě,Jan mluví se sestřenicí na rodinné oslavě.,,,Jan is talking to cousin at family celebration.
+1,4,a,1,dyn_stat,dynamic,m,W,i,Michal,píše ,komentář,pod,facebookovým,příspěvek,Michal píše komentář pod facebookovým příspěvek.,Michal píše komentář pod facebookový příspěvek.,Michal čte komentář pod facebookovým příspěvkem.,Michal is reading a comment under facebook post.
+2,4,b,1,dyn_stat,dynamic,m,R,i,Michal,čte,komentář,pod,facebookovým,příspěvkem,Michal čte komentář pod facebookovým příspěvkem.,Michal píše komentář pod facebookový příspěvek.,Michal čte komentář pod facebookovým příspěvkem.,Michal is reading a comment under facebook post.
+2,5,a,1,dyn_stat,dynamic,m,W,i,Pavel,píše,esemesku,,svému,bratrovi,Pavel píše esemesku svému bratrovi.,Pavel píše esemesku svému bratrovi.,Pavel čte esemesku od svého bratra.,Petr is writing sms to his brother.
+1,5,b,1,dyn_stat,dynamic,m,R,i,Pavel,čte,esemesku,od,svého,bratra,Pavel čte esemesku od svého bratra.,Petr píše komentář na cestovatelský blog.,Petr čte komentář na cestovatelském blogu.,Petr is reading a comment on a travel blog.
+1,6,a,1,dyn_stat,dynamic,m,W,f,Pan Kučera,píše,komentář,na,cestovatelský,blog,Pan Kučera píše komentář na cestovatelský blog.,,,
+2,6,b,1,dyn_stat,dynamic,m,R,f,Pan Kučera,čte,komentář,na,cestovatelském,blogu,Pan Kučera čte komentář na cestovatelském blogu.,,,
+1,7,,1,dyn_stat,dynamic,f,S,i,Tereza,vypráví,kamarádce,,veselou,příhodu,Tereza vypráví kamarádce veselou příhodu.,,,Tereza telling to a friend a funny story.
+1,8,,1,dyn_stat,dynamic,f,S,i,Eva,si povídá,s přítelkyní,na,maturitním,plese,Eva si povídá s přítelkyní na maturitním plese.,,,Eva is talking with a friend at a highschool ball.
+1,9,,1,dyn_stat,dynamic,f,S,f,Paní Novotná,mluví,s bratrancem,při,slavnostním,obědě,Paní Novotná mluví s bratrancem při slavnostním obědě.,,,Jitka is talking with a cousin during festive lunch.
+2,7,,1,dyn_stat,dynamic,f,S,i,Tereza,vypráví,kamarádce,,veselou,příhodu,Tereza vypráví kamarádce veselou příhodu.,,,Tereza telling to a friend a funny story.
+2,8,,1,dyn_stat,dynamic,f,S,i,Eva,si povídá,s přítelkyní,na,maturitním,plese,Eva si povídá s přítelkyní na maturitním plese.,,,Eva is talking with a friend at a highschool ball.
+2,9,,1,dyn_stat,dynamic,f,S,f,Paní Novotná,mluví,s bratrancem,při,slavnostním,obědě,Paní Novotná mluví s bratrancem při slavnostním obědě.,,,Jitka is talking with a cousin during festive lunch.
+2,10,a,1,dyn_stat,dynamic,f,W,f,Paní Dvořáková,píše,zprávu,do,soukromého,chatu,Paní Dvořáková píše zprávu do soukromého chatu.,Paní Dvořáková píše zprávu do soukromého chatu.,Paní Dvořáková čte zprávu v soukromém chatu.,Petra is reading a message in a private chat.
+1,10,b,1,dyn_stat,dynamic,f,R,f,Paní Dvořáková,čte,zprávu,v,soukromém,chatu,Paní Dvořáková čte zprávu v soukromém chatu.,,,
+1,11,a,1,dyn_stat,dynamic,f,W,f,Paní Černá,píše,přání,k,třicátým,narozeninám,Paní Černá píše přání k třicátým narozeninám.,Paní Černá píše přání k třicátým narozeninám.,Paní Černá čte přání k třicátým narozeninám.,Martina is writing a wish to 30 birthday.
+2,11,b,1,dyn_stat,dynamic,f,R,f,Paní Černá,čte,přání,k,třicátým,narozeninám,Paní Černá čte přání k třicátým narozeninám.,,,
+2,12,a,1,dyn_stat,dynamic,f,W,i,Jana,píše,vzkaz,pro,svou,spolubydlící,Jana píše vzkaz pro svou spolubydlící.,Jana píše vzkaz pro svou spolubydlící.,Jana čte vzkaz od své spolubydlící.,Jana is writing a note to her roommate.
+1,12,b,1,dyn_stat,dynamic,f,R,i,Jana,čte,vzkaz,od,své,spolubydlící,Jana čte vzkaz od své spolubydlící.,,,
+1,13,,2,dyn_stat,static,m,S,i,Martin,přednáší,publiku,na,zahajovací,slavnosti,Martin přednáší publiku na zahajovací slavnosti.,,,Mr. Novák is talking to an audience at an opening ceremony.
+1,14,,2,dyn_stat,static,m,S,i,Tomáš,promlouvá,k rodičům,na,školní,schůzce,Tomáš promlouvá k rodičům na školní schůzce.,,,Mr. Svoboda is talking to parents at a school meeting.
+1,15,,2,dyn_stat,static,m,S,f,Pan Novotný,prezentuje,šéfové,,měsíční,progres,Pan Novotný prezentuje šéfové měsíční progres.,,,Mr. Novotný is presenting to employer a monthly progress.
+2,13,,2,dyn_stat,static,m,S,i,Martin,přednáší,publiku,na,zahajovací,slavnosti,Martin přednáší publiku na zahajovací slavnosti.,,,Mr. Novák is talking to an audience at an opening ceremony.
+2,14,,2,dyn_stat,static,m,S,i,Tomáš,promlouvá,k rodičům,na,školní,schůzce,Tomáš promlouvá k rodičům na školní schůzce.,,,Mr. Svoboda is talking to parents at a school meeting.
+2,15,,2,dyn_stat,static,m,S,f,Pan Novotný,prezentuje,šéfové,,měsíční,progres,Pan Novotný prezentuje šéfové měsíční progres.,,,Mr. Novotný is presenting to employer a monthly progress.
+1,16,a,2,dyn_stat,static,m,W,f,Pan Dvořák,píše,žákům,,školní,pravidla,Pan Dvořák píše žákům školní pravidla.,Pan Dvořák píše žákům školní pravidla.,Pan Dvořák čte žákům školní pravidla.,Mr. Dvořák is writing to pupils school rules.
+2,16,b,2,dyn_stat,static,m,R,f,Pan Dvořák,čte,žákům,,školní,pravidla,Pan Dvořák čte žákům školní pravidla.,,,
+2,17,a,2,dyn_stat,static,m,W,i,Pavel,píše,zprávu,o,pracovním,úrazu,Pavel píše zprávu o pracovním úrazu.,Pavel píše zprávu o pracovním úrazu.,Pavel čte zprávu o pracovním úrazu.,Mr. Černý is writing a report about work accident.
+1,17,b,2,dyn_stat,static,m,R,i,Pavel,čte,zprávu,o,pracovním,úrazu,Pavel čte zprávu o pracovním úrazu.,,,
+1,18,a,2,dyn_stat,static,m,W,f,Pan Kučera,píše,protokol,k,soudnímu,řízení,Pan Kučera píše protokol k soudnímu řízení.,Pan Kučera píše protokol k soudnímu řízení.,Pan Kučera čte protokol ze soudního řízení.,Mr Kučera is writing a protocol from law process.
+2,18,b,2,dyn_stat,static,m,R,f,Pan Kučera,čte,protokol,ze,soudního,řízení,Pan Kučera čte protokol ze soudního řízení.,,,
+1,19,,2,dyn_stat,static,f,S,i,Tereza,přednáší,studentům,na,zemědělské,univerzitě,Tereza přednáší studentům na zemědělské univerzitě.,,,Mrs. Nováková is presenting to students at agriculture university.
+1,20,,2,dyn_stat,static,f,S,i,Eva,promlouvá,k zaměstnancům,na,firemní,schůzi,Eva promlouvá k zaměstnancům na firemní schůzi.,,,Mrs. Svobodová is talking to employees at company meeting.
+1,21,,2,dyn_stat,static,f,S,f,Paní Novotná,prezentuje,kolegům,,novou,metodologii,Paní Novotná prezentuje kolegům novou metodologii.,,,Mrs. Novotná is presenting to colleagues a new methodology.
+2,19,,2,dyn_stat,static,f,S,i,Tereza,přednáší,studentům,na,zemědělské,univerzitě,Tereza přednáší studentům na zemědělské univerzitě.,,,Mrs. Nováková is presenting to students at agriculture university.
+2,20,,2,dyn_stat,static,f,S,i,Eva,promlouvá,k zaměstnancům,na,firemní,schůzi,Eva promlouvá k zaměstnancům na firemní schůzi.,,,Mrs. Svobodová is talking to employees at company meeting.
+2,21,,2,dyn_stat,static,f,S,f,Paní Novotná,prezentuje,kolegům,,novou,metodologii,Paní Novotná prezentuje kolegům novou metodologii.,,,Mrs. Novotná is presenting to colleagues a new methodology.
+2,22,a,2,dyn_stat,static,f,W,i,Petra,píše,kolegovi,,pracovní,postup,Petra píše kolegovi pracovní postup.,Petra píše kolegovi  pracovní postup.,Petra čte kolegovi pracovní postup.,Mrs. Dvořáková is writing to colleague a work order.
+1,22,b,2,dyn_stat,static,f,R,i,Petra,čte,kolegovi,,pracovní,postup,Petra čte kolegovi pracovní postup.,,,
+1,23,a,2,dyn_stat,static,f,W,f,Paní Černá,píše,zaměstnanci,,pracovní,etiku,Paní Černá píše zaměstnanci pracovní etiku.,Paní Černá píše zaměstnanci  pracovní etiku.,Paní Černá čte zaměstnanci  pracovní etiku.,Mrs. Černá is reading to an employee work ethic.
+2,23,b,2,dyn_stat,static,f,R,f,Paní Černá,čte,zaměstnanci,,pracovní,etiku,Paní Černá čte zaměstnanci pracovní etiku.,,,
+2,24,a,2,dyn_stat,static,f,W,f,Paní Kučerová,píše,poznámku,do,žákovské,knížky,Paní Kučerová píše poznámku do žákovské knížky.,Paní Kučerová píše poznámku do žákovské knížky.,Paní Kučerová čte poznámku v žákovské knížce.,Mrs Kučerová is writing a complaining note into pupil´s index book.
+1,24,b,2,dyn_stat,static,f,R,f,Paní Kučerová,čte,poznámku,v,žákovské,knížce,Paní Kučerová čte poznámku v žákovské knížce.,,,
+1,25,,3,spon_prep,spontaneous,m,S,f,Pan Svoboda,si povídá,s kamarádkou,v,tanečním,klubu,Pan Svoboda si povídá s kamarádkou v tanečním klubu.,,,Tomáš is chatting with a friend at a dancing club.
+1,26,,3,spon_prep,spontaneous,m,S,i,Martin,mluví,s učitelkou,na,školním,výletě,Martin mluví s učitelkou na školním výletě.,,,Martin is talking to a teacher at a school trip.
+1,27,,3,spon_prep,spontaneous,m,S,f,Pan Černý,telefonuje,sekretáři,na,městský,úřad,Pan Černý telefonuje sekretáři na městský úřad.,,,Pavel is phoning to a secretary at a city office.
+2,25,,3,spon_prep,spontaneous,m,S,f,Pan Svoboda,si povídá,s kamarádkou,v,tanečním,klubu,Pan Svoboda si povídá s kamarádkou v tanečním klubu.,,,Tomáš is chatting with a friend at a dancing club.
+2,26,,3,spon_prep,spontaneous,m,S,i,Martin,mluví,s učitelkou,na,školním,výletě,Martin mluví s učitelkou na školním výletě.,,,Martin is talking to a teacher at a school trip.
+2,27,,3,spon_prep,spontaneous,m,S,f,Pan Černý,telefonuje,sekretáři,na,městský,úřad,Pan Černý telefonuje sekretáři na městský úřad.,,,Pavel is phoning to a secretary at a city office.
+1,28,a,3,spon_prep,spontaneous,m,W,i,Petr,píše,esemesku,,své,přítelkyni,Petr píše esemesku své přítelkyni.,Petr píše esemesku své přítelkyni.,Petr čte esemesku od své přítelkyně.,Petr is writing sms to his girlfriend.
+2,28,b,3,spon_prep,spontaneous,m,R,i,Petr,čte,esemesku,od,své,přítelkyně,Petr čte esemesku od své přítelkyně.,,,
+2,29,a,3,spon_prep,spontaneous,m,W,i,Jan,píše,zprávu,pro,svoji,spolužačku,Jan píše zprávu pro svoji spolužačku.,Jan píše zprávu pro svoji spolužačku.,Jan čte zprávu od své spolužačky.,Jan is writing a note to his classmate
+1,29,b,3,spon_prep,spontaneous,m,R,i,Jan,čte,zprávu,od,své,spolužačky,Jan čte zprávu od své spolužačky.,,,
+1,30,a,3,spon_prep,spontaneous,m,W,f,Pan Dvořák,píše,upomínku,na,třídní,nástěnku,Pan Dvořák píše upomínku na třídní nástěnku.,Pan Dvořák píše upomínku na třídní nástěnku.,Pan Dvořák čte upomínku na třídní nástěnce.,Michal is reading a note at the class board.
+2,30,b,3,spon_prep,spontaneous,m,R,f,Pan Dvořák,čte,upomínku,na,třídní,nástěnce,Pan Dvořák čte upomínku na třídní nástěnce.,,,
+1,31,,3,spon_prep,spontaneous,f,S,i,Petra,mluví,s rodiči,na,své,promoci,Petra mluví s rodiči na své promoci.,,,Petra is talking to parents at her promotion.
+1,32,,3,spon_prep,spontaneous,f,S,i,Tereza,mluví,se spolubydlící,v,obývacím,pokoji,Tereza mluví se spolubydlící v obývacím pokoji.,,,Tereza is talking to a roommate in a living room.
+1,33,,3,spon_prep,spontaneous,f,S,f,Paní Černá,telefonuje,zdravotní pojišťovně,kvůli,pracovnímu,úrazu,Paní Černá telefonuje zdravotní pojišťovně kvůli pracovnímu úrazu.,,,Martina is calling to a health insurance company because of the work accident.
+2,31,,3,spon_prep,spontaneous,f,S,i,Petra,mluví,s rodiči,na,své,promoci,Petra mluví s rodiči na své promoci.,,,Petra is talking to parents at her promotion.
+2,32,,3,spon_prep,spontaneous,f,S,i,Tereza,mluví,se spolubydlící,v,obývacím,pokoji,Tereza mluví se spolubydlící v obývacím pokoji.,,,Tereza is talking to a roommate in a living room.
+2,33,,3,spon_prep,spontaneous,f,S,f,Paní Černá,telefonuje,zdravotní pojišťovně,kvůli,pracovnímu,úrazu,Paní Černá telefonuje zdravotní pojišťovně kvůli pracovnímu úrazu.,,,Martina is calling to a health insurance company because of the work accident.
+2,34,a,3,spon_prep,spontaneous,f,W,i,Eva,píše,zprávu,o,velké,přestávce,Eva píše zprávu o velké přestávce.,Eva píše zprávu o velké přestávce.,Eva čte zprávu o velké přestávce.,Eva is writing a message during the big break.
+1,34,b,3,spon_prep,spontaneous,f,R,i,Eva,čte,zprávu,o,velké,přestávce,Eva čte zprávu o velké přestávce.,,,
+1,35,a,3,spon_prep,spontaneous,f,W,f,Paní Novotná,píše,stížnost,na,vedení,hotelu,Paní Novotná píše stížnost na vedení hotelu.,Paní Novotná píše stížnost na vedení hotelu.,Paní Novotná čte stížnost pro vedení hotelu.,Jitka is talking with a guest at birthday party.
+2,35,b,3,spon_prep,spontaneous,f,R,f,Paní Novotná,čte,stížnost,pro,vedení,hotelu,Paní Novotná čte stížnost pro vedení hotelu.,,,
+2,36,a,3,spon_prep,spontaneous,f,W,f,Paní Kučerová,píše,zprávu,do,skupinového,chatu,Paní Kučerová píše zprávu do skupinového chatu.,Paní Kučerová píše zprávu do skupinového chatu.,Paní Kučerová čte zprávu ve skupinovém chatu.,Jana is writing a message in a group chat.
+1,36,b,3,spon_prep,spontaneous,f,R,f,Paní Kučerová,čte,zprávu,ve,skupinovém,chatu,Paní Kučerová čte zprávu ve skupinovém chatu.,,,
+1,37,,4,spon_prep,prepared,m,S,i,Jan,diktuje,recept,na,malinový,koláč,Jan diktuje recept na malinový koláč.,,,Mr Novotný is dictating a receipt for raspberry cake.
+1,38,,4,spon_prep,prepared,m,S,f,Pan Dvořák,vypráví,dětem,,krátký,příběh,Pan Dvořák vypráví dětem krátký příběh.,,,Mr Dvořák is telling to children a short story.
+1,39,,4,spon_prep,prepared,m,S,i,Petr,přednáší,báseň,na,školní,slavnosti,Petr přednáší báseň na školní slavnosti.,,,Mr Kučera is presenting a poem at a school celebration.
+2,37,,4,spon_prep,prepared,m,S,i,Jan,diktuje,recept,na,malinový,koláč,Jan diktuje recept na malinový koláč.,,,Mr Novotný is dictating a receipt for raspberry cake.
+2,38,,4,spon_prep,prepared,m,S,f,Pan Dvořák,vypráví,dětem,,krátký,příběh,Pan Dvořák vypráví dětem krátký příběh.,,,Mr Dvořák is telling to children a short story.
+2,39,,4,spon_prep,prepared,m,S,i,Petr,přednáší,báseň,na,školní,slavnosti,Petr přednáší báseň na školní slavnosti.,,,Mr Kučera is presenting a poem at a school celebration.
+1,40,a,4,spon_prep,prepared,m,W,i,Martin,píše,příběh,do,zábavného,časopisu,Martin píše příběh do zábavného časopisu.,Martin píše příběh do zábavného časopisu.,Martin čte příběh v zábavném časopise.,Mr. Novák is reading a story in a free-time magazine.
+2,40,b,4,spon_prep,prepared,m,R,i,Martin,čte,příběh,v,zábavném,časopise,Martin čte příběh v zábavném časopise.,,,
+2,41,a,4,spon_prep,prepared,m,W,f,Pan Svoboda,píše,článek,do,přírodovědné,encyklopedie,Pan Svoboda píše článek do přírodovědné encyklopedie.,Pan Svoboda píše článek do přírodovědné encyklopedie.,Pan Svoboda čte článek v přírodovědné encyklopedii.,Mr. Svoboda is reading an article in the natural science encyclopedia.
+1,41,b,4,spon_prep,prepared,m,R,f,Pan Svoboda,čte,článek,v,přírodovědné,encyklopedii,Pan Svoboda čte článek v přírodovědné encyklopedii.,,,
+1,42,a,4,spon_prep,prepared,m,W,f,Pan Černý,píše,začátek,,výroční,zprávy,Pan Černý píše začátek výroční zprávy.,Pan Černý píše začátek  výroční zprávy.,Pan Černý čte začátek výroční zprávy.,Mr. Černý is writing an introduction of an annual report.
+2,42,b,4,spon_prep,prepared,m,R,f,Pan Černý,čte,začátek,,výroční,zprávy,Pan Černý čte začátek výroční zprávy.,,,
+1,43,,4,spon_prep,prepared,f,S,i,Jitka,vypráví,návštěvníkům,,historii,hradu,Jitka vypráví návštěvníkům historii hradu.,,,Mrs. Novotná is telling to visitors history of the castle.
+1,44,,4,spon_prep,prepared,f,S,f,Paní Dvořáková,hlásí,události,v,dopravním,zpravodajství,Paní Dvořáková hlásí události v dopravním zpravodajství.,,,
+1,45,,4,spon_prep,prepared,f,S,f,Paní Kučerová,ohlašuje,vyznamenání,na,firemní,akci,Paní Kučerová ohlašuje vyznamenání na firemní akci.,,,Mrs Kučerová is announcing promotions on the company event.
+2,43,,4,spon_prep,prepared,f,S,i,Jitka,vypráví,návštěvníkům,,historii,hradu,Jitka vypráví návštěvníkům historii hradu.,,,Mrs. Novotná is telling to visitors history of the castle.
+2,44,,4,spon_prep,prepared,f,S,f,Paní Dvořáková,hlásí,události,v,dopravním,zpravodajství,Paní Dvořáková hlásí události v dopravním zpravodajství.,,,
+2,45,,4,spon_prep,prepared,f,S,f,Paní Kučerová,ohlašuje,vyznamenání,na,firemní,akci,Paní Kučerová ohlašuje vyznamenání na firemní akci.,,,Mrs Kučerová is announcing promotions on the company event.
+2,46,a,4,spon_prep,prepared,f,W,f,Paní Nováková,píše,úvod,,vědeckého,článku,Paní Nováková píše úvod vědeckého článku.,Paní Nováková píše úvod  vědeckého článku.,Paní Nováková čte úvod  vědeckého článku.,Mrs. Nováková is reading an introduction in a scientific magazine.
+1,46,b,4,spon_prep,prepared,f,R,f,Paní Nováková,čte,úvod,,vědeckého,článku,Paní Nováková čte úvod vědeckého článku.,,,
+1,47,a,4,spon_prep,prepared,f,W,i,Eva,píše,článek,do,Hospodářských,novin,Eva píše článek do Hospodářských novin.,Eva píše článek do Hospodářských novin.,Eva čte článek v Hospodářských novinách.,Mrs. Svobodová is reading an article in an economic newspapers.
+2,47,b,4,spon_prep,prepared,f,R,i,Eva,čte,článek,v,Hospodářských,novinách,Eva čte článek v Hospodářských novinách.,,,
+2,48,a,4,spon_prep,prepared,f,W,i,Martina,píše,pohlednici,z,letní,dovolené,Martina píše pohlednici z letní dovolené.,Martina píše pohlednici z letní dovolené.,Martina čte pohlednici z letní dovolené.,Mrs. Černá is writing a postcard from summer holiday.
+1,48,b,4,spon_prep,prepared,f,R,i,Martina,čte,pohlednici,z,letní,dovolené,Martina čte pohlednici z letní dovolené.,,,
