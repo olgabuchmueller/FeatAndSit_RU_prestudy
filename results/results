@@ -1,0 +1,248 @@
+#
+# Results on Wednesday May 18 2022 07:40:12 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,0,0,instructions,NULL,PennController,0,_Trial_,Start,1652859586655,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,0,0,instructions,NULL,PennController,0,_Trial_,End,1652859602435,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,1,0,instructions_2,NULL,PennController,1,_Trial_,Start,1652859602449,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,1,0,instructions_2,NULL,PennController,1,_Trial_,End,1652859602469,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,2,0,description,NULL,PennController,2,_Trial_,Start,1652859602482,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,2,0,description,NULL,PennController,2,_Trial_,End,1652859602500,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,3,0,example,NULL,PennController,3,_Trial_,Start,1652859602515,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,3,0,example,NULL,PennController,3,_Trial_,End,1652859602530,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,4,0,precheck,NULL,PennController,4,_Trial_,Start,1652859602542,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,4,0,precheck,NULL,PennController,4,_Trial_,End,1652859602560,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item_nr.
+# 14. item_version.
+# 15. dimension_group.
+# 16. dimension.
+# 17. agens_gender.
+# 18. modality.
+# 19. agens_formality.
+# 20. sentence.
+# 21. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,53,0,situation_rating,NULL,PennController,54,_Trial_,Start,1652859602571,46,b,4,prepared,f,R,f,Paní Nováková čte úvod vědeckého článku.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,53,0,situation_rating,NULL,PennController,54,_Trial_,End,1652859602587,46,b,4,prepared,f,R,f,Paní Nováková čte úvod vědeckého článku.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,19,0,situation_rating,NULL,PennController,20,_Trial_,Start,1652859602604,12,b,1,dynamic,f,R,i,Jana čte vzkaz od své spolubydlící.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,19,0,situation_rating,NULL,PennController,20,_Trial_,End,1652859602619,12,b,1,dynamic,f,R,i,Jana čte vzkaz od své spolubydlící.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,22,0,situation_rating,NULL,PennController,23,_Trial_,Start,1652859602632,15,,2,static,m,S,f,Pan Novotný prezentuje šéfové měsíční progres.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,22,0,situation_rating,NULL,PennController,23,_Trial_,End,1652859602648,15,,2,static,m,S,f,Pan Novotný prezentuje šéfové měsíční progres.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,51,0,situation_rating,NULL,PennController,52,_Trial_,Start,1652859602658,44,,4,prepared,f,S,f,Paní Dvořáková hlásí události v dopravním zpravodajství.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,51,0,situation_rating,NULL,PennController,52,_Trial_,End,1652859602674,44,,4,prepared,f,S,f,Paní Dvořáková hlásí události v dopravním zpravodajství.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,30,0,situation_rating,NULL,PennController,31,_Trial_,Start,1652859602683,23,a,2,static,f,W,f,Paní Černá píše zaměstnanci pracovní etiku.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,30,0,situation_rating,NULL,PennController,31,_Trial_,End,1652859602700,23,a,2,static,f,W,f,Paní Černá píše zaměstnanci pracovní etiku.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,33,0,situation_rating,NULL,PennController,34,_Trial_,Start,1652859602709,26,,3,spontaneous,m,S,i,Martin mluví s učitelkou na školním výletě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,33,0,situation_rating,NULL,PennController,34,_Trial_,End,1652859602723,26,,3,spontaneous,m,S,i,Martin mluví s učitelkou na školním výletě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,49,0,situation_rating,NULL,PennController,50,_Trial_,Start,1652859602737,42,a,4,prepared,m,W,f,Pan Černý píše začátek výroční zprávy.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,49,0,situation_rating,NULL,PennController,50,_Trial_,End,1652859602750,42,a,4,prepared,m,W,f,Pan Černý píše začátek výroční zprávy.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,34,0,situation_rating,NULL,PennController,35,_Trial_,Start,1652859602760,27,,3,spontaneous,m,S,f,Pan Černý telefonuje sekretáři na městský úřad.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,34,0,situation_rating,NULL,PennController,35,_Trial_,End,1652859602776,27,,3,spontaneous,m,S,f,Pan Černý telefonuje sekretáři na městský úřad.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,42,0,situation_rating,NULL,PennController,43,_Trial_,Start,1652859602784,35,a,3,spontaneous,f,W,f,Paní Novotná píše stížnost na vedení hotelu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,42,0,situation_rating,NULL,PennController,43,_Trial_,End,1652859602801,35,a,3,spontaneous,f,W,f,Paní Novotná píše stížnost na vedení hotelu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,15,0,situation_rating,NULL,PennController,16,_Trial_,Start,1652859602807,8,,1,dynamic,f,S,i,Eva si povídá s přítelkyní na maturitním plese.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,15,0,situation_rating,NULL,PennController,16,_Trial_,End,1652859602821,8,,1,dynamic,f,S,i,Eva si povídá s přítelkyní na maturitním plese.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,5,0,check1,NULL,PennController,5,_Trial_,Start,1652859602827,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,5,0,check1,NULL,PennController,5,_Trial_,End,1652859602829,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item_nr.
+# 14. item_version.
+# 15. dimension_group.
+# 16. dimension.
+# 17. agens_gender.
+# 18. modality.
+# 19. agens_formality.
+# 20. sentence.
+# 21. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,16,0,situation_rating,NULL,PennController,17,_Trial_,Start,1652859602833,9,,1,dynamic,f,S,f,Paní Novotná mluví s bratrancem při slavnostním obědě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,16,0,situation_rating,NULL,PennController,17,_Trial_,End,1652859602837,9,,1,dynamic,f,S,f,Paní Novotná mluví s bratrancem při slavnostním obědě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,41,0,situation_rating,NULL,PennController,42,_Trial_,Start,1652859602843,34,b,3,spontaneous,f,R,i,Eva čte zprávu o velké přestávce.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,41,0,situation_rating,NULL,PennController,42,_Trial_,End,1652859602854,34,b,3,spontaneous,f,R,i,Eva čte zprávu o velké přestávce.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,39,0,situation_rating,NULL,PennController,40,_Trial_,Start,1652859602864,32,,3,spontaneous,f,S,i,Tereza mluví se spolubydlící v obývacím pokoji.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,39,0,situation_rating,NULL,PennController,40,_Trial_,End,1652859602867,32,,3,spontaneous,f,S,i,Tereza mluví se spolubydlící v obývacím pokoji.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,21,0,situation_rating,NULL,PennController,22,_Trial_,Start,1652859602872,14,,2,static,m,S,i,Tomáš promlouvá k rodičům na školní schůzce.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,21,0,situation_rating,NULL,PennController,22,_Trial_,End,1652859602884,14,,2,static,m,S,i,Tomáš promlouvá k rodičům na školní schůzce.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,11,0,situation_rating,NULL,PennController,12,_Trial_,Start,1652859602891,4,a,1,dynamic,m,W,i,Michal píše komentář pod facebookovým příspěvek.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,11,0,situation_rating,NULL,PennController,12,_Trial_,End,1652859602905,4,a,1,dynamic,m,W,i,Michal píše komentář pod facebookovým příspěvek.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,54,0,situation_rating,NULL,PennController,55,_Trial_,Start,1652859602912,47,a,4,prepared,f,W,i,Eva píše článek do Hospodářských novin.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,54,0,situation_rating,NULL,PennController,55,_Trial_,End,1652859602916,47,a,4,prepared,f,W,i,Eva píše článek do Hospodářských novin.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,35,0,situation_rating,NULL,PennController,36,_Trial_,Start,1652859602920,28,a,3,spontaneous,m,W,i,Petr píše esemesku své přítelkyni.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,35,0,situation_rating,NULL,PennController,36,_Trial_,End,1652859602934,28,a,3,spontaneous,m,W,i,Petr píše esemesku své přítelkyni.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,44,0,situation_rating,NULL,PennController,45,_Trial_,Start,1652859602944,37,,4,prepared,m,S,i,Jan diktuje recept na malinový koláč.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,44,0,situation_rating,NULL,PennController,45,_Trial_,End,1652859602958,37,,4,prepared,m,S,i,Jan diktuje recept na malinový koláč.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,20,0,situation_rating,NULL,PennController,21,_Trial_,Start,1652859602964,13,,2,static,m,S,i,Martin přednáší publiku na zahajovací slavnosti.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,20,0,situation_rating,NULL,PennController,21,_Trial_,End,1652859602967,13,,2,static,m,S,i,Martin přednáší publiku na zahajovací slavnosti.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,18,0,situation_rating,NULL,PennController,19,_Trial_,Start,1652859602973,11,a,1,dynamic,f,W,f,Paní Černá píše přání k třicátým narozeninám.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,18,0,situation_rating,NULL,PennController,19,_Trial_,End,1652859602983,11,a,1,dynamic,f,W,f,Paní Černá píše přání k třicátým narozeninám.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,6,0,check2,NULL,PennController,6,_Trial_,Start,1652859602990,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,6,0,check2,NULL,PennController,6,_Trial_,End,1652859603003,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item_nr.
+# 14. item_version.
+# 15. dimension_group.
+# 16. dimension.
+# 17. agens_gender.
+# 18. modality.
+# 19. agens_formality.
+# 20. sentence.
+# 21. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,26,0,situation_rating,NULL,PennController,27,_Trial_,Start,1652859603008,19,,2,static,f,S,i,Tereza přednáší studentům na zemědělské univerzitě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,26,0,situation_rating,NULL,PennController,27,_Trial_,End,1652859603011,19,,2,static,f,S,i,Tereza přednáší studentům na zemědělské univerzitě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,38,0,situation_rating,NULL,PennController,39,_Trial_,Start,1652859603015,31,,3,spontaneous,f,S,i,Petra mluví s rodiči na své promoci.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,38,0,situation_rating,NULL,PennController,39,_Trial_,End,1652859603017,31,,3,spontaneous,f,S,i,Petra mluví s rodiči na své promoci.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,40,0,situation_rating,NULL,PennController,41,_Trial_,Start,1652859603022,33,,3,spontaneous,f,S,f,Paní Černá telefonuje zdravotní pojišťovně kvůli pracovnímu úrazu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,40,0,situation_rating,NULL,PennController,41,_Trial_,End,1652859603034,33,,3,spontaneous,f,S,f,Paní Černá telefonuje zdravotní pojišťovně kvůli pracovnímu úrazu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,50,0,situation_rating,NULL,PennController,51,_Trial_,Start,1652859603042,43,,4,prepared,f,S,i,Jitka vypráví návštěvníkům historii hradu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,50,0,situation_rating,NULL,PennController,51,_Trial_,End,1652859603051,43,,4,prepared,f,S,i,Jitka vypráví návštěvníkům historii hradu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,47,0,situation_rating,NULL,PennController,48,_Trial_,Start,1652859603061,40,a,4,prepared,m,W,i,Martin píše příběh do zábavného časopisu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,47,0,situation_rating,NULL,PennController,48,_Trial_,End,1652859603074,40,a,4,prepared,m,W,i,Martin píše příběh do zábavného časopisu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,46,0,situation_rating,NULL,PennController,47,_Trial_,Start,1652859603082,39,,4,prepared,m,S,i,Petr přednáší báseň na školní slavnosti.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,46,0,situation_rating,NULL,PennController,47,_Trial_,End,1652859603096,39,,4,prepared,m,S,i,Petr přednáší báseň na školní slavnosti.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,55,0,situation_rating,NULL,PennController,56,_Trial_,Start,1652859603102,48,b,4,prepared,f,R,i,Martina čte pohlednici z letní dovolené.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,55,0,situation_rating,NULL,PennController,56,_Trial_,End,1652859603115,48,b,4,prepared,f,R,i,Martina čte pohlednici z letní dovolené.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,24,0,situation_rating,NULL,PennController,25,_Trial_,Start,1652859603121,17,b,2,static,m,R,i,Pavel čte zprávu o pracovním úrazu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,24,0,situation_rating,NULL,PennController,25,_Trial_,End,1652859603136,17,b,2,static,m,R,i,Pavel čte zprávu o pracovním úrazu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,10,0,situation_rating,NULL,PennController,11,_Trial_,Start,1652859603142,3,,1,dynamic,m,S,i,Jan mluví se sestřenicí na rodinné oslavě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,10,0,situation_rating,NULL,PennController,11,_Trial_,End,1652859603152,3,,1,dynamic,m,S,i,Jan mluví se sestřenicí na rodinné oslavě.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,31,0,situation_rating,NULL,PennController,32,_Trial_,Start,1652859603162,24,b,2,static,f,R,f,Paní Kučerová čte poznámku v žákovské knížce.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,31,0,situation_rating,NULL,PennController,32,_Trial_,End,1652859603178,24,b,2,static,f,R,f,Paní Kučerová čte poznámku v žákovské knížce.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,7,0,check3,NULL,PennController,7,_Trial_,Start,1652859603182,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,7,0,check3,NULL,PennController,7,_Trial_,End,1652859603184,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item_nr.
+# 14. item_version.
+# 15. dimension_group.
+# 16. dimension.
+# 17. agens_gender.
+# 18. modality.
+# 19. agens_formality.
+# 20. sentence.
+# 21. Comments.
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,8,0,situation_rating,NULL,PennController,9,_Trial_,Start,1652859603193,1,,1,dynamic,m,S,f,Pan Novák vypráví dětem napínavý příběh.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,8,0,situation_rating,NULL,PennController,9,_Trial_,End,1652859603208,1,,1,dynamic,m,S,f,Pan Novák vypráví dětem napínavý příběh.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,43,0,situation_rating,NULL,PennController,44,_Trial_,Start,1652859603214,36,b,3,spontaneous,f,R,f,Paní Kučerová čte zprávu ve skupinovém chatu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,43,0,situation_rating,NULL,PennController,44,_Trial_,End,1652859603217,36,b,3,spontaneous,f,R,f,Paní Kučerová čte zprávu ve skupinovém chatu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,13,0,situation_rating,NULL,PennController,14,_Trial_,Start,1652859603225,6,a,1,dynamic,m,W,f,Pan Kučera píše komentář na cestovatelský blog.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,13,0,situation_rating,NULL,PennController,14,_Trial_,End,1652859603239,6,a,1,dynamic,m,W,f,Pan Kučera píše komentář na cestovatelský blog.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,36,0,situation_rating,NULL,PennController,37,_Trial_,Start,1652859603247,29,b,3,spontaneous,m,R,i,Jan čte zprávu od své spolužačky.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,36,0,situation_rating,NULL,PennController,37,_Trial_,End,1652859603259,29,b,3,spontaneous,m,R,i,Jan čte zprávu od své spolužačky.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,32,0,situation_rating,NULL,PennController,33,_Trial_,Start,1652859603267,25,,3,spontaneous,m,S,f,Pan Svoboda si povídá s kamarádkou v tanečním klubu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,32,0,situation_rating,NULL,PennController,33,_Trial_,End,1652859603269,25,,3,spontaneous,m,S,f,Pan Svoboda si povídá s kamarádkou v tanečním klubu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,17,0,situation_rating,NULL,PennController,18,_Trial_,Start,1652859603276,10,b,1,dynamic,f,R,f,Paní Dvořáková čte zprávu v soukromém chatu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,17,0,situation_rating,NULL,PennController,18,_Trial_,End,1652859603287,10,b,1,dynamic,f,R,f,Paní Dvořáková čte zprávu v soukromém chatu.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,23,0,situation_rating,NULL,PennController,24,_Trial_,Start,1652859603292,16,a,2,static,m,W,f,Pan Dvořák píše žákům školní pravidla.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,23,0,situation_rating,NULL,PennController,24,_Trial_,End,1652859603297,16,a,2,static,m,W,f,Pan Dvořák píše žákům školní pravidla.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,48,0,situation_rating,NULL,PennController,49,_Trial_,Start,1652859603302,41,b,4,prepared,m,R,f,Pan Svoboda čte článek v přírodovědné encyklopedii.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,48,0,situation_rating,NULL,PennController,49,_Trial_,End,1652859603312,41,b,4,prepared,m,R,f,Pan Svoboda čte článek v přírodovědné encyklopedii.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,12,0,situation_rating,NULL,PennController,13,_Trial_,Start,1652859603317,5,b,1,dynamic,m,R,i,Pavel čte esemesku od svého bratra.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,12,0,situation_rating,NULL,PennController,13,_Trial_,End,1652859603329,5,b,1,dynamic,m,R,i,Pavel čte esemesku od svého bratra.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,29,0,situation_rating,NULL,PennController,30,_Trial_,Start,1652859603334,22,b,2,static,f,R,i,Petra čte kolegovi pracovní postup.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,29,0,situation_rating,NULL,Scale,scale_dyn_stat,Choice,7,1652859607451,22,b,2,static,f,R,i,Petra čte kolegovi pracovní postup.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,29,0,situation_rating,NULL,Scale,scale_dyn_stat2,Choice,7,1652859608928,22,b,2,static,f,R,i,Petra čte kolegovi pracovní postup.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,29,0,situation_rating,NULL,Scale,scale_spo_prep,Choice,7,1652859611172,22,b,2,static,f,R,i,Petra čte kolegovi pracovní postup.,NULL
+1652859613,18d55ec4e0637587a80c859a9c55e2bf,PennController,29,0,situation_rating,NULL,PennController,30,_Trial_,End,1652859612293,22,b,2,static,f,R,i,Petra čte kolegovi pracovní postup.,NULL
