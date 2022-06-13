@@ -1,0 +1,9 @@
+Documentation of changes compared to the czech prestudy:
+- adding "noninteractive" to the explanation of terms
+- changing the explanation of "language use", more short, more clear (students decided between two versions: 1st was the exact translation of the czeck text, 2nd was an adapted version)
+
+- other minor changes in the list of the terms description
+- color impelmentation (blue) to draw the attention of the participants to certain terms
+- alignment of the scale titels within the itmes, same structure for each scale, e.g.
+Является ли использование языка в описанной ситуации скорее субъективным или объективным?
+- added questions about age and gender
