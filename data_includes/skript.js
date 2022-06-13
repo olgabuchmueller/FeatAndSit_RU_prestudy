@@ -13,6 +13,7 @@ PennController.AddHost("http://amor.cms.hu-berlin.de/~buchmueo/");
 sitrat = randomize("situation_rating")
 Sequence("instructions",
          "instructions_2",
+    "agesex",
          "description",
          "example",
          "precheck",
@@ -63,6 +64,25 @@ PennController("instructions_2",
         getHtml("instructions_2").test.complete()
             .failure( getHtml("instructions_2").warn())
             ));
+
+//////////////////////////////////////AGESEX///////////////////////////////////////////////////////////////////////
+
+PennController("agesex",
+
+    newHtml("agesex", "age_sex.html")
+        .center()      
+        .print()
+        .log()
+    ,                   
+    newCanvas("111_emp", 40, 40)
+        .print()
+    ,
+    newButton("agesex", "ДАЛЕЕ")
+        .settings.center()
+        .settings.color("blue")
+        .print()
+        .wait()
+);
 
 ///////////////////////////////////DESCRIPTION/////////////////////////////////////////////////////////////////////
 PennController("description",
@@ -136,7 +156,7 @@ PennController("example",
     newCanvas("3", 1, 30)
             .print()
     ,
-    newText("Как вы думаете, описанное использование языка является более субъективным или объективным?")
+    newText("Является ли использование языка в описанной ситуации скорее субъективным или объективным?")
             .css("font-size", "large")
             .settings.center()
             .print()
@@ -187,7 +207,7 @@ PennController("example",
             .start()
             .wait()
     ,
-    newText("Насколько интерактивным Вам кажется описанное использование языка?")
+    newText("Является ли использование языка в описанной ситуации скорее интерактивным или неинтерактивным?")
             .print()
             .settings.center()
     ,
@@ -215,7 +235,7 @@ PennController("example",
             .start()
             .wait()
     ,
-    newText("Кажется ли Вам описанное использование языка скорее спонтанным или подготовленным?")
+    newText("Является ли использование языка в описанной ситуации скорее спонтанным или подготовленным?")
             .print()
             .settings.center()
     ,
@@ -582,7 +602,7 @@ PennController.Template( "sentences.csv",
         newCanvas("3_emp", 1, 80)
             .print()
         ,
-        newText("Как вы думаете, описанное использование языка является более субъективным или объективным?")
+        newText("Является ли использование языка в описанной ситуации скорее субъективным или объективным?")
             .print()
             .settings.center()
         ,
@@ -603,7 +623,7 @@ PennController.Template( "sentences.csv",
         newCanvas("5_emp", 1, 80)
             .print()
         ,
-        newText("Насколько интерактивным Вам кажется описанное использование языка?")
+        newText("Является ли использование языка в описанной ситуации скорее интерактивным или неинтерактивным?")
             .print()
             .settings.center()
         ,
@@ -624,7 +644,7 @@ PennController.Template( "sentences.csv",
         newCanvas("7_emp", 1, 80)
             .print()
         ,
-        newText("Кажется ли Вам описанное использование языка скорее спонтанным или подготовленным?")
+        newText("Является ли использование языка в описанной ситуации скорее спонтанным или подготовленным?")
             .print()
             .settings.center()
         ,
