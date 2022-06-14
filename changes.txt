@@ -7,3 +7,5 @@ Documentation of changes compared to the czech prestudy:
 - alignment of the scale titels within the itmes, same structure for each scale, e.g.
 Является ли использование языка в описанной ситуации скорее субъективным или объективным?
 - added questions about age and gender
+- example sequence: added "После того, как вы сделали свой выбор, вы уже не сможете его исправить."*
+* in the czech prestudy, we faced the problem that some of the items were rated much mor often than others (e.g. 28/80). It turned out that a rating choice was not saved if the participant has changed his/her mind and repeated the raiting on the same item, if the rating was repeated several times, the item even disappeared from the result list. To solve the problem, we allowed no correction of the choices in the RU prestudy
